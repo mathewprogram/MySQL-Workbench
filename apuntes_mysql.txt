@@ -1,0 +1,13 @@
+			         - Arquitectura Cliente/Servidor
+
+
+Servidor MariaDB			Levantar/Bajar
+-ip		: localhost = 127.0.0.1
+-Puerto		: 3306
+
+Servidor MySQL				Levantar/Bajar
+-ip		: localhost = 127.0.0.1
+-Puerto		: 3307
+
+Cliente Workbench
+
